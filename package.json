@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.5.2",
-    "froala-editor": "git+https://github.com/ljshj/wysiwyg-editor.git","
+    "froala-editor": "git+https://github.com/ljshj/wysiwyg-editor.git",
   },
   "devDependencies": {
     "autoprefixer": "^8.3.0",
